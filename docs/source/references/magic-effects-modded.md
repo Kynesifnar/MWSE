@@ -256,6 +256,9 @@ These effects build off of the [standard magic effects](./magic-effects.md). If 
 | T_summon_Barrowguard         | 2128      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
 | T_summon_MinoBarrowguard     | 2129      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
 | T_summon_SkeletonChampion    | 2130      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
+| T_summon_AtroFrostMon        | 2131      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
+| T_restoration_ArmorResartus  | 2132      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
+| T_restoration_WeaponResartus | 2133      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
 | storeSoul                    | 3300      | [Summon Souls](https://www.nexusmods.com/morrowind/mods/53418)                                     |
 | summonSoul1                  | 3301      | [Summon Souls](https://www.nexusmods.com/morrowind/mods/53418)                                     |
 | summonSoul2                  | 3302      | [Summon Souls](https://www.nexusmods.com/morrowind/mods/53418)                                     |
