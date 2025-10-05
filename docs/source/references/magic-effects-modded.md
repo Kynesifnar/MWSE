@@ -270,6 +270,15 @@ These effects build off of the [standard magic effects](./magic-effects.md). If 
 | T_alteration_WabbajackTrans  | 2140      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
 | T_mysticism_DetInvisibility  | 2141      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
 | T_mysticism_Blink            | 2142      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
+| T_restoration_FortifyCasting | 2143      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
+| T_illusion_PrismaticLight    | 2144      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
+| T_bound_Greatsword           | 2145      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
+| T_summon_SpiderDaedra        | 2146      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
+| T_mysticism_BloodMagic       | 2147      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
+| T_conjuration_SanguineRose   | 2148      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
+| T_mysticism_DetValuables     | 2149      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
+| T_mysticism_MagickaWard      | 2150      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
+| T_illusion_Ethereal          | 2151      | [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)                                     |
 | storeSoul                    | 3300      | [Summon Souls](https://www.nexusmods.com/morrowind/mods/53418)                                     |
 | summonSoul1                  | 3301      | [Summon Souls](https://www.nexusmods.com/morrowind/mods/53418)                                     |
 | summonSoul2                  | 3302      | [Summon Souls](https://www.nexusmods.com/morrowind/mods/53418)                                     |
